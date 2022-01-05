@@ -1,4 +1,4 @@
-Day 4: Snail
+Day 3: Snail
 Kata Level: 4 Kyu
 
 
