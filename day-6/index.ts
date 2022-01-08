@@ -84,11 +84,6 @@ export class SnakesLadders {
     // after all checks update the player's current position
     this.playersPosition[currentPlayer - 1] = playerCurrentPosition;
 
-    console.log(
-      `Player ${currentPlayer} is on ${playerCurrentPosition}`,
-      die1,
-      die2
-    );
     return `Player ${currentPlayer} is on square ${playerCurrentPosition}`;
   }
 }
